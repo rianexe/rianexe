@@ -22,7 +22,7 @@
 
   ##
 
-  ##Portfólio 🎨
+**Portfólio 🎨**
 
 - 👨‍💻 Site pessoal: https://rianexe.netlify.app
 - 🖼 Artstation: https://www.artstation.com/rianexe
