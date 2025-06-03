@@ -4,7 +4,7 @@
 - 🎮 Técnico em Programação de Jogos Digitais
 - 😄 Ele/Dele
 - 📫 rian.rodrigues2004@gmail.com
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianexe&layout=compact&theme=radical)](https://github.com/rianexe/github-readme-stats)
 
 <div style="display: inline_block"><br>
