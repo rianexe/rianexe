@@ -1,6 +1,6 @@
 ## Olá Mundo! Sou o Rian! 👋
  
-- 🌱 Estudante de Sistemas de Informação 3/8
+- 🌱 Estudante de Sistemas de Informação 4/8
 - 🎮 Técnico em Programação de Jogos Digitais
 - 😄 Ele/Dele
 - 📫 rian.rodrigues2004@gmail.com
